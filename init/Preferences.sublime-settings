@@ -1,5 +1,6 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"theme": "Material-Theme.sublime-theme",
+	"color_scheme": "Packages/Colorsublime - Themes/Facebook.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
@@ -20,11 +21,16 @@
 		".git",
 		"node_modules"
 	],
-	"font_face": "Monaco",
+	"font_face": "Fira Code",
+	"font_options":
+	[
+		"gray_antialias"
+	],
 	"font_size": 13,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
-	"line_padding_bottom": 5,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"match_brackets": true,
 	"match_brackets_angle": true,
 	"remember_open_files": false,
